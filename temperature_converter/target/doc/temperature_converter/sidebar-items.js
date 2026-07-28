@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["celsius_to_fahrenheit","fahrenheit_to_celcius","main"]};
